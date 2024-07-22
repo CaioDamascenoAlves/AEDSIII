@@ -1,7 +1,9 @@
 # Projeto de Resolução de Labirintos
 
 Este projeto tem como objetivo implementar e comparar dois algoritmos de busca para resolução de labirintos: Busca em Largura (BFS) e Busca em Profundidade (DFS). Os labirintos são representados por arquivos de texto e os resultados são processados e visualizados para análise de desempenho.
-![Maze 50](./DFS/maze50.png)
+
+<img src="./DFS/maze50.png" alt="Maze 50" width="500" />
+
 Plotagem do caminho do maior labirinto.
 ## Estrutura do Projeto
 
