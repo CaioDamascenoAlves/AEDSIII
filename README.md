@@ -47,5 +47,3 @@ O projeto inclui os seguintes scripts e arquivos:
 
 ## Resultados
   Os resultados plotados estão disponíveis nas pastas BFS e DFS, onde cada pasta contém gráficos representando o desempenho dos algoritmos para diferentes labirintos.
-
-Você pode ajustar os comandos e descrições conforme a necessidade do seu projeto.
