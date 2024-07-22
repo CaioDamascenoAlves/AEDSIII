@@ -20,22 +20,22 @@ O projeto inclui os seguintes scripts e arquivos:
    ```bash
    python main.py <caminho_para_o_arquivo_de_labirinto>
    ```
-2. Processar Todos os Arquivos em um Diretório
+2. **Processar Todos os Arquivos em um Diretório**
 
     Para processar todos os arquivos .txt em um diretório, execute:
 
     ```bash
     python run_all_mazes_bfs_dfs.py <diretório_com_arquivos_txt>
     ```
-3. Gravar Resultados em JSON
+3. **Gravar Resultados em JSON**
 
-Para gravar os resultados dos caminhos em arquivos JSON, execute:
+   Para gravar os resultados dos caminhos em arquivos JSON, execute:
 
   ```bash
   python solvers_txt_write_json.py
   ```
 
-4 .Plotar Resultados
+4. **Plotar Resultados**
 
   Após gerar os arquivos JSON, você pode plotar os resultados usando:
 
