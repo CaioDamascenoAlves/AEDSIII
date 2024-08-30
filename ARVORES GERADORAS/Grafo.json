@@ -1,0 +1,30 @@
+{
+  "grafo1": {
+    "nos": [0, 1, 2, 3, 4, 5],
+    "arestas": [
+      { "origem": 0, "destino": 1, "peso": 5 },
+      { "origem": 0, "destino": 4, "peso": 15 },
+      { "origem": 0, "destino": 5, "peso": 2 },
+      { "origem": 1, "destino": 2, "peso": 12 },
+      { "origem": 1, "destino": 3, "peso": 9 },
+      { "origem": 1, "destino": 4, "peso": 22 },
+      { "origem": 3, "destino": 5, "peso": 6 },
+      { "origem": 1, "destino": 5, "peso": 4 },
+      { "origem": 4, "destino": 2, "peso": 1 }
+    ]
+  },
+  "grafo2": {
+    "nos": ["A", "B", "C", "D", "E", "F"],
+    "arestas": [
+      { "origem": "A", "destino": "B", "peso": 6 },
+      { "origem": "A", "destino": "F", "peso": 6 },
+      { "origem": "A", "destino": "E", "peso": 9 },
+      { "origem": "F", "destino": "C", "peso": 4 },
+      { "origem": "F", "destino": "E", "peso": 8 },
+      { "origem": "E", "destino": "B", "peso": 5 },
+      { "origem": "E", "destino": "D", "peso": 4 },
+      { "origem": "C", "destino": "E", "peso": 7 },
+      { "origem": "C", "destino": "D", "peso": 8 }
+    ]
+  }
+}
